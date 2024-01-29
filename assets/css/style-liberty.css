@@ -19200,26 +19200,26 @@ h3.title-style {
 
 .icon-effects-w3-1 {
   position: absolute;
-  top: 20%;
-  right: 10%;
+  top: 15%;
+  left: 80%;
 }
 
 .icon-effects-w3-2 {
   position: absolute;
-  top: 80%;
-  right: 10%;
+  top: 60%;
+  right: 15%;
 }
 
 .icon-effects-w3-3 {
   position: absolute;
-  top: 23%;
-  left: 18%;
+  top: 15%;
+  left: 15%;
 }
 
 .icon-effects-w3-4 {
   position: absolute;
-  bottom: 14%;
-  left: 20%;
+  bottom: 20%;
+  left: 15%;
 }
 
 @media (max-width: 991px) {
