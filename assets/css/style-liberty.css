@@ -19446,6 +19446,7 @@ ul.single-info li p {
 
 /* progress section */
 .w3l-progress .progress {
+  width:100%;
   display: flex;
   height: 4px;
   overflow: hidden;
@@ -19511,7 +19512,7 @@ ul.single-info li p {
 .w3l-progress .progress-bar.gradient-2:before {
   content: "";
   position: absolute;
-  right: 5%;
+  right: 0;
   top: 90%;
   border-radius: 50%;
   transform: translate(50%, -50%);
@@ -19563,7 +19564,7 @@ ul.single-info li p {
 .w3l-progress .info1 h6.progress-tittle {
   display: grid;
   grid-template-columns: 1fr auto;
-  width: 80%;
+  width: 100%;
 }
 
 .w3l-progress .info2 h6.progress-tittle {
